@@ -900,3 +900,44 @@ body {
     padding-top: 1rem;
   }
 }
+
+/* Month Selector Styles */
+.month-selector-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--border-color);
+  border-radius: 0.85rem;
+  padding: 0.45rem 1rem;
+  font-family: var(--font-title);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #ffffff;
+  transition: var(--transition-smooth);
+}
+
+.month-selector-wrapper:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.month-selector-wrapper:focus-within {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.15);
+}
+
+.month-select {
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-size: 0.95rem;
+  font-weight: 700;
+  outline: none;
+  cursor: pointer;
+}
+
+.month-select option {
+  background: #0f1325;
+  color: #ffffff;
+}
+
