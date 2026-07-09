@@ -27,7 +27,7 @@
 | 프로젝트명 | FinanceFlow (파이낸스플로우) |
 | 한 줄 소개 | 이 앱은 사용자가 지출/수입 내역을 클라우드 DB 및 LocalStorage에 동기화하여 안전하게 조회·추가·수정·삭제할 수 있도록 돕는 React CRUD 앱입니다. |
 | 데이터 저장 방식 | ■ LocalStorage & ■ Supabase (하이브리드 자동 Fallback 구조) |
-| 배포 또는 실행 링크 | 로컬 개발 서버 실행 환경 |
+| 배포 또는 실행 링크 | https://financeflow-b8h.pages.dev/ |
 | GitHub 링크 | https://github.com/hbjeong900601/ai |
 
 ## 1-1. 내가 선택한 수행 수준
@@ -312,7 +312,7 @@ Supabase는 도전 기능이며 필수가 아닙니다. Supabase를 사용하지
 | 항목 | 링크 또는 설명 |
 |---|---|
 | GitHub 링크 | https://github.com/hbjeong900601/ai |
-| 실행 링크 | 로컬 실행 서버 구동 확인 |
+| 실행 링크 | https://financeflow-b8h.pages.dev/ |
 | 실행 화면 캡처 | screenshots 폴더 내 이미지 확인 |
 | 과제 안내 Colab | `과제5_ReactCRUD_과제안내.ipynb` |
 | 제출 폼 | `{{SUBMISSION_LINK}}` |
