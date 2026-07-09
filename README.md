@@ -16,7 +16,7 @@
 | 한 줄 소개 | 이 앱은 사용자가 지출/수입 내역을 조회·추가·수정·삭제할 수 있도록 돕는 React CRUD 앱입니다. |
 | 데이터 저장 방식 | ■ LocalStorage |
 | 배포 또는 실행 링크 | 로컬 개발 서버 실행 환경 |
-| GitHub 링크 | [GitHub 레포지토리 주소] |
+| GitHub 링크 | https://github.com/hbjeong900601/ai |
 
 ## 1-1. 내가 선택한 수행 수준
 
@@ -277,7 +277,7 @@
 
 | 항목 | 링크 또는 설명 |
 |---|---|
-| GitHub 링크 | [GitHub 저장소] |
+| GitHub 링크 | https://github.com/hbjeong900601/ai |
 | 실행 링크 | 로컬 실행 서버 구동 확인 |
 | 실행 화면 캡처 | screenshots 폴더 내 이미지 확인 |
 | 과제 안내 Colab | `과제5_ReactCRUD_과제안내.ipynb` |
