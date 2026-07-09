@@ -12,6 +12,7 @@
 | 플랫폼 | 실행 방법 및 링크 |
 |---|---|
 | **StackBlitz** | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/hbjeong900601/ai)<br>1. 위의 **Open in StackBlitz** 배너 단추를 클릭합니다.<br>2. 깃허브 저장소 루트에 가계부 프로젝트가 바로 있으므로, 접속 시 가상 개발 서버가 자동으로 빌드를 시작합니다.<br>3. 패키지 설치(`npm install`) 및 개발 구동이 완료될 때까지 **약 30초~1분** 정도 기다리시면 화면이 정상 출력됩니다. |
+| **CodeSandbox** | [CodeSandbox 실행 링크](https://codesandbox.io/s/github/hbjeong900601/ai)<br>1. 위의 링크를 클릭하여 CodeSandbox로 저장소를 가져옵니다.<br>2. 가상 에디터 우측 또는 가상 웹 브라우저 탭에서 실행 결과를 확인합니다. |
 | **GitHub Codespaces** | 1. 본 GitHub 저장소 우측 상단의 초록색 **[Code]** 버튼을 클릭합니다.<br>2. **Codespaces** 탭을 선택한 뒤 **Create codespace on main**을 클릭합니다.<br>3. 개발 공간 로딩이 완료되면 VS Code 터미널 창에 바로 `npm install && npm run dev`를 입력합니다.<br>4. 팝업되는 **Open in Browser**를 누르면 가상 도메인으로 가계부 화면이 열립니다. |
 
 ---
