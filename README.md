@@ -11,7 +11,7 @@
 
 | 플랫폼 | 실행 방법 및 링크 |
 |---|---|
-| **StackBlitz** | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/hbjeong900601/ai/tree/main/%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A65)<br>1. 위의 **Open in StackBlitz** 배너 단추를 클릭합니다.<br>2. 브라우저 내에 가상 개발 서버가 자동으로 구동됩니다.<br>3. 만약 하위 폴더의 패키지가 자동 빌드되지 않는 경우, 우측 하단의 터미널 창에 `cd 과제5 && npm install && npm run dev`를 차례로 실행해 주세요. |
+| **StackBlitz** | [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/hbjeong900601/ai)<br>1. 위의 **Open in StackBlitz** 배너 단추를 클릭합니다. (한글 폴더 인코딩 오류 방지를 위해 저장소 루트 주소로 연결됩니다.)<br>2. 개발 공간이 열리면 하단 터미널 창에 `cd 과제5` (또는 `cd 과` 입력 후 Tab 키 입력)를 입력하여 과제 폴더로 진입합니다.<br>3. 이어서 `npm install && npm run dev`를 순서대로 입력하여 가상 서버를 가동합니다. |
 | **GitHub Codespaces** | 1. 본 GitHub 저장소 우측 상단의 초록색 **[Code]** 버튼을 클릭합니다.<br>2. **Codespaces** 탭을 선택한 뒤 **Create codespace on main**을 클릭합니다.<br>3. 개발 공간 로딩이 완료되면 VS Code 터미널 창에 `cd 과제5 && npm install && npm run dev`를 입력합니다.<br>4. 우측 하단 팝업 알림의 **Open in Browser**를 누르면 가상 도메인으로 가계부 화면이 열립니다. |
 
 ---
